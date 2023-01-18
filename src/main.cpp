@@ -48,7 +48,7 @@ int main(int argc, char *argv[]){
 	
 	//SHORT lastc = 0;
 	while(1){
-		Sleep(2); // give other programs time to run
+//		Sleep(2); // give other programs time to run
 		
 		// get the active windowtitle
 		char title[1024];
