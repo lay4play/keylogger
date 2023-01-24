@@ -33,6 +33,7 @@ Under Windows Vista Home Premium I wasn't able to run a version compiled with [M
 - Windows Vista Home Premium, 64 Bit
 - Windows XP Professional
 - Windows 7, 64-bit
+- Windows 10, 64-Bit
 
 ## Installation
 
